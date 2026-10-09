@@ -3,3 +3,9 @@
 name: Shreya Ghoshal
 
 no of songs:3000
+
+2
+
+name: Anirudh Ravichander
+
+no of songs:1500
